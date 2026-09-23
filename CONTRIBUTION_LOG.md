@@ -1,24 +1,20 @@
-# SLE-2 Contribution Log
+# SLE-2 Contribution
 
-## Project
+## AI Contribution
 
-**Empirical Performance Analysis – BFS vs DFS**
+AI tools were used to:
 
-| Task                 | Contribution                                 |
-| -------------------- | -------------------------------------------- |
-| Problem Selection    | Selected 20 × 20 grid search problem         |
-| BFS Implementation   | Implemented Breadth-First Search             |
-| DFS Implementation   | Implemented Depth-First Search               |
-| Grid Design          | Created a fixed grid for fair comparison     |
-| Correctness Testing  | Compared path length and nodes expanded      |
-| Performance Testing  | Used `timeit` for execution-time measurement |
-| Multiple Runs        | Used 5 runs with 5000 iterations             |
-| Statistical Analysis | Calculated average execution time            |
-| Documentation        | Prepared README and contribution log         |
-| Testing              | Tested the complete SLE-2 program            |
+* Develop and improve the BFS and DFS code.
+* Add `timeit`-based performance profiling.
+* Add correctness checking and average execution-time calculation.
+* Prepare the comparison and documentation.
 
-## AI Contribution Note
+## My Contribution
 
-AI assistance was used to understand BFS and DFS, improve the Python code structure, identify errors, and prepare the README and contribution documentation.
+I:
 
-The code was reviewed and tested as part of the SLE-2 project.
+* Understood the BFS and DFS algorithms.
+* Ran the SLE-2 program and collected the performance results.
+* Compared execution time, path length, and nodes expanded.
+* Verified the results using the same grid.
+* Prepared the SLE-2 submission.
